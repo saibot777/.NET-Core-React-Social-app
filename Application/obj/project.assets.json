@@ -4073,11 +4073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Application\\obj\\",
+      "outputPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4094,11 +4094,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }
