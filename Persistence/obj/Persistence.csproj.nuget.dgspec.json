@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj": {
+    "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj"
+              "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\stefan\\Desktop\\evolved\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -93,6 +93,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
